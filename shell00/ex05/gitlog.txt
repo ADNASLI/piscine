@@ -1,0 +1,9 @@
+git log is used to see the commits
+
+the -5 is used to see the last 5 commits
+
+the --format= is used to setup what  want to see
+
+and the %H is used for the full Hash format
+
+

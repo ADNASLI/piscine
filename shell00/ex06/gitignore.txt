@@ -1,0 +1,20 @@
+git ignore is used to ignore some files you don't want to commit ever like .DS_Store for example
+
+You can setup this ignoref file in you git reposetory in .git/info/exclude for example or create a .gitignore file in the reposetory and what you want to exclude
+You will not see those files appears whent you use git status or else
+
+The command is that follows
+
+git ls-files --ignored --exclude-standard --others
+
+ls-files is the command to list the files
+
+--ignored => to show the ignored files
+
+--exclude-standard => Add the standard Git exclusions: .git/info/exclude, .gitignore in each directory, and the user’s global exclusion file.
+
+--others => --exclude-standard needs to add something and others shows the ignore by default
+
+VOIR AUSSI 
+
+https://git-scm.com/docs/git-ls-files to see how it's work

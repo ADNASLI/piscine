@@ -1,0 +1,13 @@
+kerberos list of command
+
+kinit permet de demander ses tickets
+
+klist permett d'obtznir la liste de ses tickets
+
+Issue kinit username to get your ticket.
+To see your tickets, issue a klist command.
+
+VOIR PLUS CI DESSOUS
+
+https://docs.oracle.com/cd/E24843_01/html/E23285/refer-5.html
+

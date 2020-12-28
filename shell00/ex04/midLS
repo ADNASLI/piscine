@@ -1,0 +1,6 @@
+ls -tUmp
+
+-t for sorting
+-U sorting by time of creation
+-p put a slash
+-m for the comas

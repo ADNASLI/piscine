@@ -1,0 +1,17 @@
+Creer un lien dur hard link :
+
+    ln test3 test5
+
+Creer un lien souple:
+
+    ln -s test0 test6
+
+Changer les droits des fichiers ou repertoires
+
+    chmod 715 test0
+
+Changer date modif fichier
+
+    touch MMDDhhmm test0
+
+

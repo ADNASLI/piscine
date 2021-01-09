@@ -5,8 +5,14 @@ void ft_putchar(char c){
 }
 
 void ft_print_combn(int n){
+    char max = '9';
     char i;
-    i = '0';
+    i = '9' - ;
+
+    while(i < max){
+        
+
+    }
 
    
 
